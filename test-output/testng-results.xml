@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9204" started-at="2023-05-31T15:38:08 IST" finished-at="2023-05-31T15:38:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9204" started-at="2023-05-31T15:38:08 IST" finished-at="2023-05-31T15:38:17 IST">
+      <class name="testes.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testes.LoginTest@133e16fd]" name="setUp" is-config="true" duration-ms="7543" started-at="2023-05-31T15:38:01 IST" finished-at="2023-05-31T15:38:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:1, instance:testes.LoginTest@133e16fd]" name="login" duration-ms="1514" started-at="2023-05-31T15:38:08 IST" finished-at="2023-05-31T15:38:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="newLogin()[pri:2, instance:testes.LoginTest@133e16fd]" name="newLogin" duration-ms="5419" started-at="2023-05-31T15:38:10 IST" finished-at="2023-05-31T15:38:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newLogin -->
+        <test-method status="PASS" signature="loginAgain()[pri:3, instance:testes.LoginTest@133e16fd]" name="loginAgain" duration-ms="724" started-at="2023-05-31T15:38:15 IST" finished-at="2023-05-31T15:38:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAgain -->
+        <test-method status="PASS" signature="dashBoard()[pri:4, instance:testes.LoginTest@133e16fd]" name="dashBoard" duration-ms="226" started-at="2023-05-31T15:38:16 IST" finished-at="2023-05-31T15:38:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashBoard -->
+        <test-method status="PASS" signature="userPage()[pri:5, instance:testes.LoginTest@133e16fd]" name="userPage" duration-ms="1160" started-at="2023-05-31T15:38:16 IST" finished-at="2023-05-31T15:38:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPage -->
+      </class> <!-- testes.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
